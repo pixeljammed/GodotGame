@@ -1,0 +1,1114 @@
+// Game: Godot
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"_tb_textures" "textures;textures/minecraft"
+// brush 0
+{
+( 48 56 -96 ) ( 48 -56 -96 ) ( 48 56 -104 ) minecraft/oak_planks 0 5.866666 0 1 15
+( 56 -56 -104 ) ( 48 -56 -104 ) ( 56 -56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( 56 56 -104 ) ( 48 56 -104 ) ( 56 -56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 56 -56 -96 ) ( 48 -56 -96 ) ( 56 56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( 56 56 -96 ) ( 48 56 -96 ) ( 56 56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 56 -56 -96 ) ( 56 56 -96 ) ( 56 -56 -104 ) minecraft/oak_planks 0 0 0 1 1
+}
+// brush 1
+{
+( -56 -56 -104 ) ( -56 56 -104 ) ( -56 -56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( -56 -56 -96 ) ( -48 -56 -96 ) ( -56 -56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( -56 -56 -104 ) ( -48 -56 -104 ) ( -56 56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( -56 56 -96 ) ( -48 56 -96 ) ( -56 -56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( -56 56 -104 ) ( -48 56 -104 ) ( -56 56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( -48 -56 -104 ) ( -48 -56 -96 ) ( -48 56 -104 ) minecraft/oak_planks 0 5.866666 0 1 15
+}
+// brush 2
+{
+( -48 56 -96 ) ( -48 48 -96 ) ( -48 56 -104 ) minecraft/oak_planks 0 5.866666 0 1 15
+( 48 48 -96 ) ( 48 48 -104 ) ( -48 48 -96 ) minecraft/oak_planks 0 5.866666 0 1 15
+( -48 56 -104 ) ( -48 48 -104 ) ( 48 56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 48 56 -96 ) ( 48 48 -96 ) ( -48 56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( 48 56 -96 ) ( -48 56 -96 ) ( 48 56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 48 56 -104 ) ( 48 48 -104 ) ( 48 56 -96 ) minecraft/oak_planks 0 5.866666 0 1 15
+}
+// brush 3
+{
+( -48 -56 -104 ) ( -48 -48 -104 ) ( -48 -56 -96 ) minecraft/oak_planks 0 5.866666 0 1 15
+( 48 -56 -104 ) ( -48 -56 -104 ) ( 48 -56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( 48 -56 -104 ) ( 48 -48 -104 ) ( -48 -56 -104 ) minecraft/oak_planks 0 0 0 1 1
+( -48 -56 -96 ) ( -48 -48 -96 ) ( 48 -56 -96 ) minecraft/oak_planks 0 0 0 1 1
+( -48 -48 -104 ) ( 48 -48 -104 ) ( -48 -48 -96 ) minecraft/oak_planks 0 5.866666 0 1 15
+( 48 -56 -96 ) ( 48 -48 -96 ) ( 48 -56 -104 ) minecraft/oak_planks 0 5.866666 0 1 15
+}
+// brush 4
+{
+( -80 -64 -112 ) ( -80 -63 -112 ) ( -80 -64 -111 ) minecraft/oak_log 0 0 0 1 1
+( -80 -64 -112 ) ( -80 -64 -111 ) ( -79 -64 -112 ) minecraft/oak_log 0 0 0 1 1
+( -80 -64 -112 ) ( -79 -64 -112 ) ( -80 -63 -112 ) minecraft/oak_log_top 0 0 0 1 1
+( -64 80 -96 ) ( -64 81 -96 ) ( -63 80 -96 ) minecraft/oak_log_top 0 0 0 1 1
+( -64 80 -96 ) ( -63 80 -96 ) ( -64 80 -95 ) minecraft/oak_log 0 0 0 1 1
+( -64 80 -96 ) ( -64 80 -95 ) ( -64 81 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 5
+{
+( -64 64 -112 ) ( -64 65 -112 ) ( -64 64 -111 ) minecraft/oak_log 0 0 0 1 1
+( -64 64 -112 ) ( -64 64 -111 ) ( -63 64 -112 ) minecraft/oak_log 0 0 0 1 1
+( -64 64 -112 ) ( -63 64 -112 ) ( -64 65 -112 ) minecraft/oak_log_top 0 0 0 1 1
+( 80 80 -96 ) ( 80 81 -96 ) ( 81 80 -96 ) minecraft/oak_log_top 0 0 0 1 1
+( 80 80 -96 ) ( 81 80 -96 ) ( 80 80 -95 ) minecraft/oak_log 0 0 0 1 1
+( 80 80 -96 ) ( 80 80 -95 ) ( 80 81 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 6
+{
+( 64 -80 -112 ) ( 64 -79 -112 ) ( 64 -80 -111 ) minecraft/oak_log 0 0 0 1 1
+( 64 -80 -112 ) ( 64 -80 -111 ) ( 65 -80 -112 ) minecraft/oak_log 0 0 0 1 1
+( 64 -80 -112 ) ( 65 -80 -112 ) ( 64 -79 -112 ) minecraft/oak_log_top 0 0 0 1 1
+( 80 64 -96 ) ( 80 65 -96 ) ( 81 64 -96 ) minecraft/oak_log_top 0 0 0 1 1
+( 80 64 -96 ) ( 81 64 -96 ) ( 80 64 -95 ) minecraft/oak_log 0 0 0 1 1
+( 80 64 -96 ) ( 80 64 -95 ) ( 80 65 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 7
+{
+( -80 -80 -112 ) ( -80 -79 -112 ) ( -80 -80 -111 ) minecraft/oak_log 0 0 0 1 1
+( -80 -80 -112 ) ( -80 -80 -111 ) ( -79 -80 -112 ) minecraft/oak_log 0 0 0 1 1
+( -80 -80 -112 ) ( -79 -80 -112 ) ( -80 -79 -112 ) minecraft/oak_log_top 0 0 0 1 1
+( 64 -64 -96 ) ( 64 -63 -96 ) ( 65 -64 -96 ) minecraft/oak_log_top 0 0 0 1 1
+( 64 -64 -96 ) ( 65 -64 -96 ) ( 64 -64 -95 ) minecraft/oak_log 0 0 0 1 1
+( 64 -64 -96 ) ( 64 -64 -95 ) ( 64 -63 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 8
+{
+( -48 -64 -112 ) ( -48 -63 -112 ) ( -48 -64 -111 ) minecraft/oak_planks 0 0 0 1 1
+( -48 -64 -112 ) ( -48 -64 -111 ) ( -47 -64 -112 ) minecraft/oak_planks 0 0 0 1 1
+( -48 -64 -112 ) ( -47 -64 -112 ) ( -48 -63 -112 ) minecraft/oak_planks 0 0 0 1 1
+( 64 -48 -104 ) ( 64 -47 -104 ) ( 65 -48 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 64 -48 -104 ) ( 65 -48 -104 ) ( 64 -48 -103 ) minecraft/oak_planks 0 0 0 1 1
+( 64 -48 -104 ) ( 64 -48 -103 ) ( 64 -47 -104 ) minecraft/oak_planks 0 0 0 1 1
+}
+// brush 9
+{
+( -64 -64 -112 ) ( -64 -63 -112 ) ( -64 -64 -111 ) minecraft/oak_planks 0 0 0 1 1
+( -64 -64 -112 ) ( -64 -64 -111 ) ( -63 -64 -112 ) minecraft/oak_planks 0 0 0 1 1
+( -64 -64 -112 ) ( -63 -64 -112 ) ( -64 -63 -112 ) minecraft/oak_planks 0 0 0 1 1
+( -48 48 -104 ) ( -48 49 -104 ) ( -47 48 -104 ) minecraft/oak_planks 0 0 0 1 1
+( -48 48 -104 ) ( -47 48 -104 ) ( -48 48 -103 ) minecraft/oak_planks 0 0 0 1 1
+( -48 48 -104 ) ( -48 48 -103 ) ( -48 49 -104 ) minecraft/oak_planks 0 0 0 1 1
+}
+// brush 10
+{
+( -64 48 -112 ) ( -64 49 -112 ) ( -64 48 -111 ) minecraft/oak_planks 0 0 0 1 1
+( -64 48 -112 ) ( -64 48 -111 ) ( -63 48 -112 ) minecraft/oak_planks 0 0 0 1 1
+( -64 48 -112 ) ( -63 48 -112 ) ( -64 49 -112 ) minecraft/oak_planks 0 0 0 1 1
+( 48 64 -104 ) ( 48 65 -104 ) ( 49 64 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 48 64 -104 ) ( 49 64 -104 ) ( 48 64 -103 ) minecraft/oak_planks 0 0 0 1 1
+( 48 64 -104 ) ( 48 64 -103 ) ( 48 65 -104 ) minecraft/oak_planks 0 0 0 1 1
+}
+// brush 11
+{
+( 48 -48 -112 ) ( 48 -47 -112 ) ( 48 -48 -111 ) minecraft/oak_planks 0 0 0 1 1
+( 48 -48 -112 ) ( 48 -48 -111 ) ( 49 -48 -112 ) minecraft/oak_planks 0 0 0 1 1
+( 48 -48 -112 ) ( 49 -48 -112 ) ( 48 -47 -112 ) minecraft/oak_planks 0 0 0 1 1
+( 64 64 -104 ) ( 64 65 -104 ) ( 65 64 -104 ) minecraft/oak_planks 0 0 0 1 1
+( 64 64 -104 ) ( 65 64 -104 ) ( 64 64 -103 ) minecraft/oak_planks 0 0 0 1 1
+( 64 64 -104 ) ( 64 64 -103 ) ( 64 65 -104 ) minecraft/oak_planks 0 0 0 1 1
+}
+// brush 12
+{
+( 32 32 -112 ) ( 32 33 -112 ) ( 32 32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 32 -112 ) ( 32 32 -111 ) ( 33 32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 32 -112 ) ( 33 32 -112 ) ( 32 33 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 48 -96 ) ( 48 49 -96 ) ( 49 48 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 48 -96 ) ( 49 48 -96 ) ( 48 48 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 48 -96 ) ( 48 48 -95 ) ( 48 49 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 13
+{
+( 32 0 -112 ) ( 32 1 -112 ) ( 32 0 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 0 -112 ) ( 32 0 -111 ) ( 33 0 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 0 -112 ) ( 33 0 -112 ) ( 32 1 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 16 -96 ) ( 48 17 -96 ) ( 49 16 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 16 -96 ) ( 49 16 -96 ) ( 48 16 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 16 -96 ) ( 48 16 -95 ) ( 48 17 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 14
+{
+( 32 -32 -112 ) ( 32 -31 -112 ) ( 32 -32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 -32 -112 ) ( 32 -32 -111 ) ( 33 -32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 -32 -112 ) ( 33 -32 -112 ) ( 32 -31 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 -16 -96 ) ( 48 -15 -96 ) ( 49 -16 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 -16 -96 ) ( 49 -16 -96 ) ( 48 -16 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 48 -16 -96 ) ( 48 -16 -95 ) ( 48 -15 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 15
+{
+( 16 -48 -112 ) ( 16 -47 -112 ) ( 16 -48 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -48 -112 ) ( 16 -48 -111 ) ( 17 -48 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -48 -112 ) ( 17 -48 -112 ) ( 16 -47 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 -32 -96 ) ( 32 -31 -96 ) ( 33 -32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 -32 -96 ) ( 33 -32 -96 ) ( 32 -32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 -32 -96 ) ( 32 -32 -95 ) ( 32 -31 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 16
+{
+( -16 -48 -112 ) ( -16 -47 -112 ) ( -16 -48 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 -48 -112 ) ( -16 -48 -111 ) ( -15 -48 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 -48 -112 ) ( -15 -48 -112 ) ( -16 -47 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 -32 -96 ) ( 0 -31 -96 ) ( 1 -32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 -32 -96 ) ( 1 -32 -96 ) ( 0 -32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 -32 -96 ) ( 0 -32 -95 ) ( 0 -31 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 17
+{
+( -48 -48 -112 ) ( -48 -47 -112 ) ( -48 -48 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 -48 -112 ) ( -48 -48 -111 ) ( -47 -48 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 -48 -112 ) ( -47 -48 -112 ) ( -48 -47 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 -32 -96 ) ( -32 -31 -96 ) ( -31 -32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 -32 -96 ) ( -31 -32 -96 ) ( -32 -32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 -32 -96 ) ( -32 -32 -95 ) ( -32 -31 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 18
+{
+( 0 32 -112 ) ( 0 33 -112 ) ( 0 32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 32 -112 ) ( 0 32 -111 ) ( 1 32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 32 -112 ) ( 1 32 -112 ) ( 0 33 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 48 -96 ) ( 16 49 -96 ) ( 17 48 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 48 -96 ) ( 17 48 -96 ) ( 16 48 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 48 -96 ) ( 16 48 -95 ) ( 16 49 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 19
+{
+( -32 32 -112 ) ( -32 33 -112 ) ( -32 32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 32 -112 ) ( -32 32 -111 ) ( -31 32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 32 -112 ) ( -31 32 -112 ) ( -32 33 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 48 -96 ) ( -16 49 -96 ) ( -15 48 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 48 -96 ) ( -15 48 -96 ) ( -16 48 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 48 -96 ) ( -16 48 -95 ) ( -16 49 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 20
+{
+( -48 16 -112 ) ( -48 17 -112 ) ( -48 16 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 16 -112 ) ( -48 16 -111 ) ( -47 16 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 16 -112 ) ( -47 16 -112 ) ( -48 17 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 32 -96 ) ( -32 33 -96 ) ( -31 32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 32 -96 ) ( -31 32 -96 ) ( -32 32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 32 -96 ) ( -32 32 -95 ) ( -32 33 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 21
+{
+( -48 -16 -112 ) ( -48 -15 -112 ) ( -48 -16 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 -16 -112 ) ( -48 -16 -111 ) ( -47 -16 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -48 -16 -112 ) ( -47 -16 -112 ) ( -48 -15 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 0 -96 ) ( -32 1 -96 ) ( -31 0 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 0 -96 ) ( -31 0 -96 ) ( -32 0 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 0 -96 ) ( -32 0 -95 ) ( -32 1 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 22
+{
+( -48 32 -112 ) ( -48 33 -112 ) ( -48 32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 32 -112 ) ( -48 32 -111 ) ( -47 32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 32 -112 ) ( -47 32 -112 ) ( -48 33 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 48 -96 ) ( -32 49 -96 ) ( -31 48 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 48 -96 ) ( -31 48 -96 ) ( -32 48 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 48 -96 ) ( -32 48 -95 ) ( -32 49 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 23
+{
+( -48 0 -112 ) ( -48 1 -112 ) ( -48 0 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 0 -112 ) ( -48 0 -111 ) ( -47 0 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 0 -112 ) ( -47 0 -112 ) ( -48 1 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 16 -96 ) ( -32 17 -96 ) ( -31 16 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 16 -96 ) ( -31 16 -96 ) ( -32 16 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 16 -96 ) ( -32 16 -95 ) ( -32 17 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 24
+{
+( -48 -32 -112 ) ( -48 -31 -112 ) ( -48 -32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 -32 -112 ) ( -48 -32 -111 ) ( -47 -32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -48 -32 -112 ) ( -47 -32 -112 ) ( -48 -31 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -16 -96 ) ( -32 -15 -96 ) ( -31 -16 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -16 -96 ) ( -31 -16 -96 ) ( -32 -16 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -16 -96 ) ( -32 -16 -95 ) ( -32 -15 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 25
+{
+( -32 16 -112 ) ( -32 17 -112 ) ( -32 16 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 16 -112 ) ( -32 16 -111 ) ( -31 16 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 16 -112 ) ( -31 16 -112 ) ( -32 17 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 32 -96 ) ( -16 33 -96 ) ( -15 32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 32 -96 ) ( -15 32 -96 ) ( -16 32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 32 -96 ) ( -16 32 -95 ) ( -16 33 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 26
+{
+( -16 32 -112 ) ( -16 33 -112 ) ( -16 32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 32 -112 ) ( -16 32 -111 ) ( -15 32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 32 -112 ) ( -15 32 -112 ) ( -16 33 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 48 -96 ) ( 0 49 -96 ) ( 1 48 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 48 -96 ) ( 1 48 -96 ) ( 0 48 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 48 -96 ) ( 0 48 -95 ) ( 0 49 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 27
+{
+( 16 32 -112 ) ( 16 33 -112 ) ( 16 32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 32 -112 ) ( 16 32 -111 ) ( 17 32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 32 -112 ) ( 17 32 -112 ) ( 16 33 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 48 -96 ) ( 32 49 -96 ) ( 33 48 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 48 -96 ) ( 33 48 -96 ) ( 32 48 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 48 -96 ) ( 32 48 -95 ) ( 32 49 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 28
+{
+( -32 -16 -112 ) ( -32 -15 -112 ) ( -32 -16 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -16 -112 ) ( -32 -16 -111 ) ( -31 -16 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -16 -112 ) ( -31 -16 -112 ) ( -32 -15 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 0 -96 ) ( -16 1 -96 ) ( -15 0 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 0 -96 ) ( -15 0 -96 ) ( -16 0 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 0 -96 ) ( -16 0 -95 ) ( -16 1 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 29
+{
+( 0 16 -112 ) ( 0 17 -112 ) ( 0 16 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 16 -112 ) ( 0 16 -111 ) ( 1 16 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 16 -112 ) ( 1 16 -112 ) ( 0 17 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 32 -96 ) ( 16 33 -96 ) ( 17 32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 32 -96 ) ( 17 32 -96 ) ( 16 32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 32 -96 ) ( 16 32 -95 ) ( 16 33 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 30
+{
+( 32 16 -112 ) ( 32 17 -112 ) ( 32 16 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 16 -112 ) ( 32 16 -111 ) ( 33 16 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 16 -112 ) ( 33 16 -112 ) ( 32 17 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 32 -96 ) ( 48 33 -96 ) ( 49 32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 32 -96 ) ( 49 32 -96 ) ( 48 32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 32 -96 ) ( 48 32 -95 ) ( 48 33 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 31
+{
+( 32 -16 -112 ) ( 32 -15 -112 ) ( 32 -16 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -16 -112 ) ( 32 -16 -111 ) ( 33 -16 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -16 -112 ) ( 33 -16 -112 ) ( 32 -15 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 0 -96 ) ( 48 1 -96 ) ( 49 0 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 0 -96 ) ( 49 0 -96 ) ( 48 0 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 0 -96 ) ( 48 0 -95 ) ( 48 1 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 32
+{
+( 32 -48 -112 ) ( 32 -47 -112 ) ( 32 -48 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -48 -112 ) ( 32 -48 -111 ) ( 33 -48 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -48 -112 ) ( 33 -48 -112 ) ( 32 -47 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 -32 -96 ) ( 48 -31 -96 ) ( 49 -32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 -32 -96 ) ( 49 -32 -96 ) ( 48 -32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 48 -32 -96 ) ( 48 -32 -95 ) ( 48 -31 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 33
+{
+( 0 -48 -112 ) ( 0 -47 -112 ) ( 0 -48 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 -48 -112 ) ( 0 -48 -111 ) ( 1 -48 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 -48 -112 ) ( 1 -48 -112 ) ( 0 -47 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 -32 -96 ) ( 16 -31 -96 ) ( 17 -32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 -32 -96 ) ( 17 -32 -96 ) ( 16 -32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 -32 -96 ) ( 16 -32 -95 ) ( 16 -31 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 34
+{
+( 16 -32 -112 ) ( 16 -31 -112 ) ( 16 -32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 -32 -112 ) ( 16 -32 -111 ) ( 17 -32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 -32 -112 ) ( 17 -32 -112 ) ( 16 -31 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -16 -96 ) ( 32 -15 -96 ) ( 33 -16 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -16 -96 ) ( 33 -16 -96 ) ( 32 -16 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 -16 -96 ) ( 32 -16 -95 ) ( 32 -15 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 35
+{
+( 16 0 -112 ) ( 16 1 -112 ) ( 16 0 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 0 -112 ) ( 16 0 -111 ) ( 17 0 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 16 0 -112 ) ( 17 0 -112 ) ( 16 1 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 16 -96 ) ( 32 17 -96 ) ( 33 16 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 16 -96 ) ( 33 16 -96 ) ( 32 16 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 32 16 -96 ) ( 32 16 -95 ) ( 32 17 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 36
+{
+( -16 -32 -112 ) ( -16 -31 -112 ) ( -16 -32 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 -32 -112 ) ( -16 -32 -111 ) ( -15 -32 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 -32 -112 ) ( -15 -32 -112 ) ( -16 -31 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 -16 -96 ) ( 0 -15 -96 ) ( 1 -16 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 -16 -96 ) ( 1 -16 -96 ) ( 0 -16 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( 0 -16 -96 ) ( 0 -16 -95 ) ( 0 -15 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 37
+{
+( -32 -48 -112 ) ( -32 -47 -112 ) ( -32 -48 -111 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -48 -112 ) ( -32 -48 -111 ) ( -31 -48 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -32 -48 -112 ) ( -31 -48 -112 ) ( -32 -47 -112 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 -32 -96 ) ( -16 -31 -96 ) ( -15 -32 -96 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 -32 -96 ) ( -15 -32 -96 ) ( -16 -32 -95 ) minecraft/polished_diorite 0 0 0 1 1
+( -16 -32 -96 ) ( -16 -32 -95 ) ( -16 -31 -96 ) minecraft/polished_diorite 0 0 0 1 1
+}
+// brush 38
+{
+( -32 -32 -112 ) ( -32 -31 -112 ) ( -32 -32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 -32 -112 ) ( -32 -32 -111 ) ( -31 -32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 -32 -112 ) ( -31 -32 -112 ) ( -32 -31 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 -16 -96 ) ( -16 -15 -96 ) ( -15 -16 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 -16 -96 ) ( -15 -16 -96 ) ( -16 -16 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 -16 -96 ) ( -16 -16 -95 ) ( -16 -15 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 39
+{
+( 16 16 -112 ) ( 16 17 -112 ) ( 16 16 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 16 -112 ) ( 16 16 -111 ) ( 17 16 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 16 -112 ) ( 17 16 -112 ) ( 16 17 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 32 -96 ) ( 32 33 -96 ) ( 33 32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 32 -96 ) ( 33 32 -96 ) ( 32 32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 32 -96 ) ( 32 32 -95 ) ( 32 33 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 40
+{
+( -16 16 -112 ) ( -16 17 -112 ) ( -16 16 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 16 -112 ) ( -16 16 -111 ) ( -15 16 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 16 -112 ) ( -15 16 -112 ) ( -16 17 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 32 -96 ) ( 0 33 -96 ) ( 1 32 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 32 -96 ) ( 1 32 -96 ) ( 0 32 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 32 -96 ) ( 0 32 -95 ) ( 0 33 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 41
+{
+( -32 0 -112 ) ( -32 1 -112 ) ( -32 0 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 0 -112 ) ( -32 0 -111 ) ( -31 0 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -32 0 -112 ) ( -31 0 -112 ) ( -32 1 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 16 -96 ) ( -16 17 -96 ) ( -15 16 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 16 -96 ) ( -15 16 -96 ) ( -16 16 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( -16 16 -96 ) ( -16 16 -95 ) ( -16 17 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 42
+{
+( 16 -16 -112 ) ( 16 -15 -112 ) ( 16 -16 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -16 -112 ) ( 16 -16 -111 ) ( 17 -16 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -16 -112 ) ( 17 -16 -112 ) ( 16 -15 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 0 -96 ) ( 32 1 -96 ) ( 33 0 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 0 -96 ) ( 33 0 -96 ) ( 32 0 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 32 0 -96 ) ( 32 0 -95 ) ( 32 1 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 43
+{
+( 0 -32 -112 ) ( 0 -31 -112 ) ( 0 -32 -111 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 -32 -112 ) ( 0 -32 -111 ) ( 1 -32 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 0 -32 -112 ) ( 1 -32 -112 ) ( 0 -31 -112 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -16 -96 ) ( 16 -15 -96 ) ( 17 -16 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -16 -96 ) ( 17 -16 -96 ) ( 16 -16 -95 ) minecraft/polished_blackstone 0 0 0 1 1
+( 16 -16 -96 ) ( 16 -16 -95 ) ( 16 -15 -96 ) minecraft/polished_blackstone 0 0 0 1 1
+}
+// brush 44
+{
+( -16 -16 -112 ) ( -16 -15 -112 ) ( -16 -16 -111 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+( -16 -16 -112 ) ( -16 -16 -111 ) ( -15 -16 -112 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+( -16 -16 -112 ) ( -15 -16 -112 ) ( -16 -15 -112 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+( 16 16 -96 ) ( 16 17 -96 ) ( 17 16 -96 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+( 16 16 -96 ) ( 17 16 -96 ) ( 16 16 -95 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+( 16 16 -96 ) ( 16 16 -95 ) ( 16 17 -96 ) minecraft/chiseled_stone_bricks 0 0 0 1 1
+}
+// brush 45
+{
+( -96 -80 -112 ) ( -96 -79 -112 ) ( -96 -80 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -80 -112 ) ( -96 -80 -111 ) ( -95 -80 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -80 -112 ) ( -95 -80 -112 ) ( -96 -79 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 96 -104 ) ( -80 97 -104 ) ( -79 96 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 96 -104 ) ( -79 96 -104 ) ( -80 96 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 96 -104 ) ( -80 96 -103 ) ( -80 97 -104 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 46
+{
+( -80 80 -112 ) ( -80 81 -112 ) ( -80 80 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 80 -112 ) ( -80 80 -111 ) ( -79 80 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 80 -112 ) ( -79 80 -112 ) ( -80 81 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 96 -104 ) ( 96 97 -104 ) ( 97 96 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 96 -104 ) ( 97 96 -104 ) ( 96 96 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 96 -104 ) ( 96 96 -103 ) ( 96 97 -104 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 47
+{
+( 80 -96 -112 ) ( 80 -95 -112 ) ( 80 -96 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -96 -112 ) ( 80 -96 -111 ) ( 81 -96 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -96 -112 ) ( 81 -96 -112 ) ( 80 -95 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 80 -104 ) ( 96 81 -104 ) ( 97 80 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 80 -104 ) ( 97 80 -104 ) ( 96 80 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 80 -104 ) ( 96 80 -103 ) ( 96 81 -104 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 48
+{
+( -96 -96 -112 ) ( -96 -95 -112 ) ( -96 -96 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -96 -112 ) ( -96 -96 -111 ) ( -95 -96 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -96 -112 ) ( -95 -96 -112 ) ( -96 -95 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -80 -104 ) ( 80 -79 -104 ) ( 81 -80 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -80 -104 ) ( 81 -80 -104 ) ( 80 -80 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -80 -104 ) ( 80 -80 -103 ) ( 80 -79 -104 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 49
+{
+( 80 -80 -104 ) ( 80 -79 -104 ) ( 80 -80 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -80 -104 ) ( 80 -80 -103 ) ( 81 -80 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 -80 -104 ) ( 81 -80 -104 ) ( 80 -79 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 88 -96 ) ( 88 89 -96 ) ( 89 88 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 88 -96 ) ( 89 88 -96 ) ( 88 88 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 88 -96 ) ( 88 88 -95 ) ( 88 89 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 50
+{
+( -88 80 -104 ) ( -88 81 -104 ) ( -88 80 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( -88 80 -104 ) ( -88 80 -103 ) ( -87 80 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( -88 80 -104 ) ( -87 80 -104 ) ( -88 81 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 88 -96 ) ( 80 89 -96 ) ( 81 88 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 88 -96 ) ( 81 88 -96 ) ( 80 88 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 88 -96 ) ( 80 88 -95 ) ( 80 89 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 51
+{
+( -88 -88 -104 ) ( -88 -87 -104 ) ( -88 -88 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( -88 -88 -104 ) ( -88 -88 -103 ) ( -87 -88 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( -88 -88 -104 ) ( -87 -88 -104 ) ( -88 -87 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 80 -96 ) ( -80 81 -96 ) ( -79 80 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 80 -96 ) ( -79 80 -96 ) ( -80 80 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 80 -96 ) ( -80 80 -95 ) ( -80 81 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 52
+{
+( -80 -88 -104 ) ( -80 -87 -104 ) ( -80 -88 -103 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 -88 -104 ) ( -80 -88 -103 ) ( -79 -88 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 -88 -104 ) ( -79 -88 -104 ) ( -80 -87 -104 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 -80 -96 ) ( 88 -79 -96 ) ( 89 -80 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 -80 -96 ) ( 89 -80 -96 ) ( 88 -80 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 88 -80 -96 ) ( 88 -80 -95 ) ( 88 -79 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 53
+{
+( 96 -96 -112 ) ( 96 -95 -112 ) ( 96 -96 -111 ) minecraft/oak_log 0 0 0 1 1
+( 96 -96 -112 ) ( 96 -96 -111 ) ( 97 -96 -112 ) minecraft/oak_log 0 0 0 1 1
+( 96 -96 -112 ) ( 97 -96 -112 ) ( 96 -95 -112 ) minecraft/oak_log 0 0 0 1 1
+( 112 112 -96 ) ( 112 113 -96 ) ( 113 112 -96 ) minecraft/oak_log 0 0 0 1 1
+( 112 112 -96 ) ( 113 112 -96 ) ( 112 112 -95 ) minecraft/oak_log 0 0 0 1 1
+( 112 112 -96 ) ( 112 112 -95 ) ( 112 113 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 54
+{
+( -112 96 -112 ) ( -112 97 -112 ) ( -112 96 -111 ) minecraft/oak_log 0 0 0 1 1
+( -112 96 -112 ) ( -112 96 -111 ) ( -111 96 -112 ) minecraft/oak_log 0 0 0 1 1
+( -112 96 -112 ) ( -111 96 -112 ) ( -112 97 -112 ) minecraft/oak_log 0 0 0 1 1
+( 96 112 -96 ) ( 96 113 -96 ) ( 97 112 -96 ) minecraft/oak_log 0 0 0 1 1
+( 96 112 -96 ) ( 97 112 -96 ) ( 96 112 -95 ) minecraft/oak_log 0 0 0 1 1
+( 96 112 -96 ) ( 96 112 -95 ) ( 96 113 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 55
+{
+( -112 -112 -112 ) ( -112 -111 -112 ) ( -112 -112 -111 ) minecraft/oak_log 0 0 0 1 1
+( -112 -112 -112 ) ( -112 -112 -111 ) ( -111 -112 -112 ) minecraft/oak_log 0 0 0 1 1
+( -112 -112 -112 ) ( -111 -112 -112 ) ( -112 -111 -112 ) minecraft/oak_log 0 0 0 1 1
+( -96 96 -96 ) ( -96 97 -96 ) ( -95 96 -96 ) minecraft/oak_log 0 0 0 1 1
+( -96 96 -96 ) ( -95 96 -96 ) ( -96 96 -95 ) minecraft/oak_log 0 0 0 1 1
+( -96 96 -96 ) ( -96 96 -95 ) ( -96 97 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 56
+{
+( -96 -112 -112 ) ( -96 -111 -112 ) ( -96 -112 -111 ) minecraft/oak_log 0 0 0 1 1
+( -96 -112 -112 ) ( -96 -112 -111 ) ( -95 -112 -112 ) minecraft/oak_log 0 0 0 1 1
+( -96 -112 -112 ) ( -95 -112 -112 ) ( -96 -111 -112 ) minecraft/oak_log 0 0 0 1 1
+( 112 -96 -96 ) ( 112 -95 -96 ) ( 113 -96 -96 ) minecraft/oak_log 0 0 0 1 1
+( 112 -96 -96 ) ( 113 -96 -96 ) ( 112 -96 -95 ) minecraft/oak_log 0 0 0 1 1
+( 112 -96 -96 ) ( 112 -96 -95 ) ( 112 -95 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 57
+{
+( 112 -112 -112 ) ( 112 -111 -112 ) ( 112 -112 -111 ) minecraft/spruce_planks 0 0 0 1 1
+( 112 -112 -112 ) ( 112 -112 -111 ) ( 113 -112 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( 112 -112 -112 ) ( 113 -112 -112 ) ( 112 -111 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 128 -104 ) ( 128 129 -104 ) ( 129 128 -104 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 128 -104 ) ( 129 128 -104 ) ( 128 128 -103 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 128 -104 ) ( 128 128 -103 ) ( 128 129 -104 ) minecraft/spruce_planks 0 0 0 1 1
+}
+// brush 58
+{
+( -128 112 -112 ) ( -128 113 -112 ) ( -128 112 -111 ) minecraft/spruce_planks 0 0 0 1 1
+( -128 112 -112 ) ( -128 112 -111 ) ( -127 112 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( -128 112 -112 ) ( -127 112 -112 ) ( -128 113 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( 112 128 -104 ) ( 112 129 -104 ) ( 113 128 -104 ) minecraft/spruce_planks 0 0 0 1 1
+( 112 128 -104 ) ( 113 128 -104 ) ( 112 128 -103 ) minecraft/spruce_planks 0 0 0 1 1
+( 112 128 -104 ) ( 112 128 -103 ) ( 112 129 -104 ) minecraft/spruce_planks 0 0 0 1 1
+}
+// brush 59
+{
+( -128 -112 -112 ) ( -128 -111.06666666666666 -112 ) ( -128 -112 -111 ) minecraft/spruce_planks -8 0 0 0.93333334 1
+( -128 -112 -112 ) ( -128 -112 -111 ) ( -127 -112 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( -128 -112 -112 ) ( -127 -112 -112 ) ( -128 -111.06666666666666 -112 ) minecraft/spruce_planks 0 8 0 1 0.93333334
+( -112 112 -104 ) ( -112 112.93333333333334 -104 ) ( -111 112 -104 ) minecraft/spruce_planks 0 8 0 1 0.93333334
+( -112 112 -104 ) ( -111 112 -104 ) ( -112 112 -103 ) minecraft/spruce_planks 0 0 0 1 1
+( -112 112 -104 ) ( -112 112 -103 ) ( -112 112.93333333333334 -104 ) minecraft/spruce_planks -8 0 0 0.93333334 1
+}
+// brush 60
+{
+( -128 128 -112 ) ( -128 129 -112 ) ( -128 128 -111 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -112 ) ( -128 128 -111 ) ( -127 128 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -112 ) ( -127 128 -112 ) ( -128 129 -112 ) minecraft/oak_log 0 0 0 1 1
+( -80 144 -96 ) ( -80 145 -96 ) ( -79 144 -96 ) minecraft/oak_log 0 0 0 1 1
+( -80 144 -96 ) ( -79 144 -96 ) ( -80 144 -95 ) minecraft/oak_log 0 0 0 1 1
+( -80 144 -96 ) ( -80 144 -95 ) ( -80 145 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 61
+{
+( -144 80 -112 ) ( -144 81 -112 ) ( -144 80 -111 ) minecraft/oak_log 0 0 0 1 1
+( -144 80 -112 ) ( -144 80 -111 ) ( -143 80 -112 ) minecraft/oak_log 0 0 0 1 1
+( -144 80 -112 ) ( -143 80 -112 ) ( -144 81 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -128 129 -96 ) ( -127 128 -96 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -127 128 -96 ) ( -128 128 -95 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -128 128 -95 ) ( -128 129 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 62
+{
+( -144 112 -112 ) ( -144 113 -112 ) ( -144 112 -111 ) minecraft/oak_log 0 0 0 1 1
+( -144 112 -112 ) ( -144 112 -111 ) ( -143 112 -112 ) minecraft/oak_log 0 0 0 1 1
+( -144 112 -112 ) ( -143 112 -112 ) ( -144 113 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -128 129 -96 ) ( -127 128 -96 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -127 128 -96 ) ( -128 128 -95 ) minecraft/oak_log 0 0 0 1 1
+( -128 128 -96 ) ( -128 128 -95 ) ( -128 129 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 63
+{
+( -144 128 -112 ) ( -144 129 -112 ) ( -144 128 -111 ) minecraft/oak_log 0 0 0 1 1
+( -144 128 -112 ) ( -144 128 -111 ) ( -143 128 -112 ) minecraft/oak_log 0 0 0 1 1
+( -144 128 -112 ) ( -143 128 -112 ) ( -144 129 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 144 -48 ) ( -128 145 -48 ) ( -127 144 -48 ) minecraft/oak_log 0 0 0 1 1
+( -128 144 -48 ) ( -127 144 -48 ) ( -128 144 -47 ) minecraft/oak_log 0 0 0 1 1
+( -128 144 -48 ) ( -128 144 -47 ) ( -128 145 -48 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 64
+{
+( -80 128 -112 ) ( -80 129 -112 ) ( -80 128 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 128 -112 ) ( -80 128 -111 ) ( -79 128 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -80 128 -112 ) ( -79 128 -112 ) ( -80 129 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 144 -96 ) ( 80 145 -96 ) ( 81 144 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 144 -96 ) ( 81 144 -96 ) ( 80 144 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 80 144 -96 ) ( 80 144 -95 ) ( 80 145 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 65
+{
+( 128 -80 -112 ) ( 128 -79 -112 ) ( 128 -80 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 -80 -112 ) ( 128 -80 -111 ) ( 129 -80 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 -80 -112 ) ( 129 -80 -112 ) ( 128 -79 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 80 -96 ) ( 144 81 -96 ) ( 145 80 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 80 -96 ) ( 145 80 -96 ) ( 144 80 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 80 -96 ) ( 144 80 -95 ) ( 144 81 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 66
+{
+( -144 -80 -112 ) ( -144 -79 -112 ) ( -144 -80 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -80 -112 ) ( -144 -80 -111 ) ( -143 -80 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -80 -112 ) ( -143 -80 -112 ) ( -144 -79 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 80 -96 ) ( -128 81 -96 ) ( -127 80 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 80 -96 ) ( -127 80 -96 ) ( -128 80 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 80 -96 ) ( -128 80 -95 ) ( -128 81 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 67
+{
+( 80 128 -112 ) ( 80 129 -112 ) ( 80 128 -111 ) minecraft/oak_log 0 0 0 1 1
+( 80 128 -112 ) ( 80 128 -111 ) ( 81 128 -112 ) minecraft/oak_log 0 0 0 1 1
+( 80 128 -112 ) ( 81 128 -112 ) ( 80 129 -112 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -96 ) ( 144 145 -96 ) ( 145 144 -96 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -96 ) ( 145 144 -96 ) ( 144 144 -95 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -96 ) ( 144 144 -95 ) ( 144 145 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 68
+{
+( 128 80 -112 ) ( 128 81 -112 ) ( 128 80 -111 ) minecraft/oak_log 0 0 0 1 1
+( 128 80 -112 ) ( 128 80 -111 ) ( 129 80 -112 ) minecraft/oak_log 0 0 0 1 1
+( 128 80 -112 ) ( 129 80 -112 ) ( 128 81 -112 ) minecraft/oak_log 0 0 0 1 1
+( 144 128 -96 ) ( 144 129 -96 ) ( 145 128 -96 ) minecraft/oak_log 0 0 0 1 1
+( 144 128 -96 ) ( 145 128 -96 ) ( 144 128 -95 ) minecraft/oak_log 0 0 0 1 1
+( 144 128 -96 ) ( 144 128 -95 ) ( 144 129 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 69
+{
+( 128 -144 -112 ) ( 128 -143 -112 ) ( 128 -144 -111 ) minecraft/oak_log 0 0 0 1 1
+( 128 -144 -112 ) ( 128 -144 -111 ) ( 129 -144 -112 ) minecraft/oak_log 0 0 0 1 1
+( 128 -144 -112 ) ( 129 -144 -112 ) ( 128 -143 -112 ) minecraft/oak_log 0 0 0 1 1
+( 144 -80 -96 ) ( 144 -79 -96 ) ( 145 -80 -96 ) minecraft/oak_log 0 0 0 1 1
+( 144 -80 -96 ) ( 145 -80 -96 ) ( 144 -80 -95 ) minecraft/oak_log 0 0 0 1 1
+( 144 -80 -96 ) ( 144 -80 -95 ) ( 144 -79 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 70
+{
+( 80 -144 -112 ) ( 80 -143 -112 ) ( 80 -144 -111 ) minecraft/oak_log 0 0 0 1 1
+( 80 -144 -112 ) ( 80 -144 -111 ) ( 81 -144 -112 ) minecraft/oak_log 0 0 0 1 1
+( 80 -144 -112 ) ( 81 -144 -112 ) ( 80 -143 -112 ) minecraft/oak_log 0 0 0 1 1
+( 128 -128 -96 ) ( 128 -127 -96 ) ( 129 -128 -96 ) minecraft/oak_log 0 0 0 1 1
+( 128 -128 -96 ) ( 129 -128 -96 ) ( 128 -128 -95 ) minecraft/oak_log 0 0 0 1 1
+( 128 -128 -96 ) ( 128 -128 -95 ) ( 128 -127 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 71
+{
+( -144 -144 -112 ) ( -144 -143 -112 ) ( -144 -144 -111 ) minecraft/oak_log 0 0 0 1 1
+( -144 -144 -112 ) ( -144 -144 -111 ) ( -143 -144 -112 ) minecraft/oak_log 0 0 0 1 1
+( -144 -144 -112 ) ( -143 -144 -112 ) ( -144 -143 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 -80 -96 ) ( -128 -79 -96 ) ( -127 -80 -96 ) minecraft/oak_log 0 0 0 1 1
+( -128 -80 -96 ) ( -127 -80 -96 ) ( -128 -80 -95 ) minecraft/oak_log 0 0 0 1 1
+( -128 -80 -96 ) ( -128 -80 -95 ) ( -128 -79 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 72
+{
+( -128 -144 -112 ) ( -128 -143 -112 ) ( -128 -144 -111 ) minecraft/oak_log 0 0 0 1 1
+( -128 -144 -112 ) ( -128 -144 -111 ) ( -127 -144 -112 ) minecraft/oak_log 0 0 0 1 1
+( -128 -144 -112 ) ( -127 -144 -112 ) ( -128 -143 -112 ) minecraft/oak_log 0 0 0 1 1
+( -80 -128 -96 ) ( -80 -127 -96 ) ( -79 -128 -96 ) minecraft/oak_log 0 0 0 1 1
+( -80 -128 -96 ) ( -79 -128 -96 ) ( -80 -128 -95 ) minecraft/oak_log 0 0 0 1 1
+( -80 -128 -96 ) ( -80 -128 -95 ) ( -80 -127 -96 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 73
+{
+( -128 128 -96 ) ( -128 129 -96 ) ( -128 128 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 128 -96 ) ( -128 128 -95 ) ( -127 128 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 128 -96 ) ( -127 128 -96 ) ( -128 129 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -88 ) ( 128 145 -88 ) ( 129 144 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -88 ) ( 129 144 -88 ) ( 128 144 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -88 ) ( 128 144 -87 ) ( 128 145 -88 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 74
+{
+( 128 -128 -96 ) ( 128 -127 -96 ) ( 128 -128 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 -128 -96 ) ( 128 -128 -95 ) ( 129 -128 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 -128 -96 ) ( 129 -128 -96 ) ( 128 -127 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -88 ) ( 144 129 -88 ) ( 145 128 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -88 ) ( 145 128 -88 ) ( 144 128 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -88 ) ( 144 128 -87 ) ( 144 129 -88 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 75
+{
+( -144 -128 -96 ) ( -144 -127 -96 ) ( -144 -128 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -128 -96 ) ( -144 -128 -95 ) ( -143 -128 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -128 -96 ) ( -143 -128 -96 ) ( -144 -127 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 128 -88 ) ( -128 129 -88 ) ( -127 128 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 128 -88 ) ( -127 128 -88 ) ( -128 128 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 128 -88 ) ( -128 128 -87 ) ( -128 129 -88 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 76
+{
+( -128 136 -88 ) ( -128 137 -88 ) ( -128 136 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 136 -88 ) ( -128 136 -87 ) ( -127 136 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( -128 136 -88 ) ( -127 136 -88 ) ( -128 137 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -80 ) ( 128 145 -80 ) ( 129 144 -80 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -80 ) ( 129 144 -80 ) ( 128 144 -79 ) minecraft/stone_bricks 0 0 0 1 1
+( 128 144 -80 ) ( 128 144 -79 ) ( 128 145 -80 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 77
+{
+( 136 -128 -88 ) ( 136 -127 -88 ) ( 136 -128 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( 136 -128 -88 ) ( 136 -128 -87 ) ( 137 -128 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( 136 -128 -88 ) ( 137 -128 -88 ) ( 136 -127 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -80 ) ( 144 129 -80 ) ( 145 128 -80 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -80 ) ( 145 128 -80 ) ( 144 128 -79 ) minecraft/stone_bricks 0 0 0 1 1
+( 144 128 -80 ) ( 144 128 -79 ) ( 144 129 -80 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 78
+{
+( -144 -128 -88 ) ( -144 -127 -88 ) ( -144 -128 -87 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -128 -88 ) ( -144 -128 -87 ) ( -143 -128 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( -144 -128 -88 ) ( -143 -128 -88 ) ( -144 -127 -88 ) minecraft/stone_bricks 0 0 0 1 1
+( -136 128 -80 ) ( -136 129 -80 ) ( -135 128 -80 ) minecraft/stone_bricks 0 0 0 1 1
+( -136 128 -80 ) ( -135 128 -80 ) ( -136 128 -79 ) minecraft/stone_bricks 0 0 0 1 1
+( -136 128 -80 ) ( -136 128 -79 ) ( -136 129 -80 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 79
+{
+( -144 -144 -96 ) ( -144 -143 -96 ) ( -144 -144 -95 ) minecraft/oak_log 0 0 0 1 1
+( -144 -144 -96 ) ( -144 -144 -95 ) ( -143 -144 -96 ) minecraft/oak_log 0 0 0 1 1
+( -144 -144 -96 ) ( -143 -144 -96 ) ( -144 -143 -96 ) minecraft/oak_log 0 0 0 1 1
+( -128 -128 -48 ) ( -128 -127 -48 ) ( -127 -128 -48 ) minecraft/oak_log 0 0 0 1 1
+( -128 -128 -48 ) ( -127 -128 -48 ) ( -128 -128 -47 ) minecraft/oak_log 0 0 0 1 1
+( -128 -128 -48 ) ( -128 -128 -47 ) ( -128 -127 -48 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 80
+{
+( 128 -144 -96 ) ( 128 -143 -96 ) ( 128 -144 -95 ) minecraft/oak_log 0 0 0 1 1
+( 128 -144 -96 ) ( 128 -144 -95 ) ( 129 -144 -96 ) minecraft/oak_log 0 0 0 1 1
+( 128 -144 -96 ) ( 129 -144 -96 ) ( 128 -143 -96 ) minecraft/oak_log 0 0 0 1 1
+( 144 -128 -48 ) ( 144 -127 -48 ) ( 145 -128 -48 ) minecraft/oak_log 0 0 0 1 1
+( 144 -128 -48 ) ( 145 -128 -48 ) ( 144 -128 -47 ) minecraft/oak_log 0 0 0 1 1
+( 144 -128 -48 ) ( 144 -128 -47 ) ( 144 -127 -48 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 81
+{
+( 128 128 -96 ) ( 128 129 -96 ) ( 128 128 -95 ) minecraft/oak_log 0 0 0 1 1
+( 128 128 -96 ) ( 128 128 -95 ) ( 129 128 -96 ) minecraft/oak_log 0 0 0 1 1
+( 128 128 -96 ) ( 129 128 -96 ) ( 128 129 -96 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -48 ) ( 144 145 -48 ) ( 145 144 -48 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -48 ) ( 145 144 -48 ) ( 144 144 -47 ) minecraft/oak_log 0 0 0 1 1
+( 144 144 -48 ) ( 144 144 -47 ) ( 144 145 -48 ) minecraft/oak_log 0 0 0 1 1
+}
+// brush 82
+{
+( -80 -144 -112 ) ( -80 -143 -112 ) ( -80 -144 -111 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -112 ) ( -80 -144 -111 ) ( -79 -144 -112 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -112 ) ( -79 -144 -112 ) ( -80 -143 -112 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -96 ) ( -32 -127 -96 ) ( -31 -128 -96 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -96 ) ( -31 -128 -96 ) ( -32 -128 -95 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -96 ) ( -32 -128 -95 ) ( -32 -127 -96 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 83
+{
+( 32 -144 -112 ) ( 32 -143 -112 ) ( 32 -144 -111 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -112 ) ( 32 -144 -111 ) ( 33 -144 -112 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -112 ) ( 33 -144 -112 ) ( 32 -143 -112 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -96 ) ( 80 -127 -96 ) ( 81 -128 -96 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -96 ) ( 81 -128 -96 ) ( 80 -128 -95 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -96 ) ( 80 -128 -95 ) ( 80 -127 -96 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 84
+{
+( 32 -144 -96 ) ( 32 -143 -96 ) ( 32 -144 -95 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -96 ) ( 32 -144 -95 ) ( 33 -144 -96 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -96 ) ( 33 -144 -96 ) ( 32 -143 -96 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -64 ) ( 80 -127 -64 ) ( 81 -128 -64 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -64 ) ( 81 -128 -64 ) ( 80 -128 -63 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -64 ) ( 80 -128 -63 ) ( 80 -127 -64 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 85
+{
+( -80 -144 -96 ) ( -80 -143 -96 ) ( -80 -144 -95 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -96 ) ( -80 -144 -95 ) ( -79 -144 -96 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -96 ) ( -79 -144 -96 ) ( -80 -143 -96 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -64 ) ( -32 -127 -64 ) ( -31 -128 -64 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -64 ) ( -31 -128 -64 ) ( -32 -128 -63 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 -64 ) ( -32 -128 -63 ) ( -32 -127 -64 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 86
+{
+( 48 -144 -64 ) ( 48 -143 -64 ) ( 48 -144 -63 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -144 -64 ) ( 48 -144 -63 ) ( 49 -144 -64 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -144 -64 ) ( 49 -144 -64 ) ( 48 -143 -64 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -16 ) ( 80 -127 -16 ) ( 81 -128 -16 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -16 ) ( 81 -128 -16 ) ( 80 -128 -15 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 -16 ) ( 80 -128 -15 ) ( 80 -127 -16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 87
+{
+( -80 -144 -64 ) ( -80 -143 -64 ) ( -80 -144 -63 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -64 ) ( -80 -144 -63 ) ( -79 -144 -64 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -64 ) ( -79 -144 -64 ) ( -80 -143 -64 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -128 -16 ) ( -48 -127 -16 ) ( -47 -128 -16 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -128 -16 ) ( -47 -128 -16 ) ( -48 -128 -15 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -128 -16 ) ( -48 -128 -15 ) ( -48 -127 -16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 88
+{
+( 32 -144 -16 ) ( 32 -143 -16 ) ( 32 -144 -15 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -16 ) ( 32 -144 -15 ) ( 33 -144 -16 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 -16 ) ( 33 -144 -16 ) ( 32 -143 -16 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 0 ) ( 80 -127 0 ) ( 81 -128 0 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 0 ) ( 81 -128 0 ) ( 80 -128 1 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 0 ) ( 80 -128 1 ) ( 80 -127 0 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 89
+{
+( 32 -144 0 ) ( 32 -143 0 ) ( 32 -144 1 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 0 ) ( 32 -144 1 ) ( 33 -144 0 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -144 0 ) ( 33 -144 0 ) ( 32 -143 0 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 16 ) ( 80 -127 16 ) ( 81 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 16 ) ( 81 -128 16 ) ( 80 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( 80 -128 16 ) ( 80 -128 17 ) ( 80 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 90
+{
+( -80 -144 -16 ) ( -80 -143 -16 ) ( -80 -144 -15 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -16 ) ( -80 -144 -15 ) ( -79 -144 -16 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 -16 ) ( -79 -144 -16 ) ( -80 -143 -16 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 0 ) ( -32 -127 0 ) ( -31 -128 0 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 0 ) ( -31 -128 0 ) ( -32 -128 1 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 0 ) ( -32 -128 1 ) ( -32 -127 0 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 91
+{
+( -80 -144 0 ) ( -80 -143 0 ) ( -80 -144 1 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 0 ) ( -80 -144 1 ) ( -79 -144 0 ) minecraft/cobblestone 0 0 0 1 1
+( -80 -144 0 ) ( -79 -144 0 ) ( -80 -143 0 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 16 ) ( -32 -127 16 ) ( -31 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 16 ) ( -31 -128 16 ) ( -32 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -128 16 ) ( -32 -128 17 ) ( -32 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 92
+{
+( -64 -144 16 ) ( -64 -143 16 ) ( -64 -144 17 ) minecraft/cobblestone 0 0 0 1 1
+( -64 -144 16 ) ( -64 -144 17 ) ( -63 -144 16 ) minecraft/cobblestone 0 0 0 1 1
+( -64 -144 16 ) ( -63 -144 16 ) ( -64 -143 16 ) minecraft/cobblestone 0 0 0 1 1
+( 64 -128 32 ) ( 64 -127 32 ) ( 65 -128 32 ) minecraft/cobblestone 0 0 0 1 1
+( 64 -128 32 ) ( 65 -128 32 ) ( 64 -128 33 ) minecraft/cobblestone 0 0 0 1 1
+( 64 -128 32 ) ( 64 -128 33 ) ( 64 -127 32 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 93
+{
+( -48 -160 32 ) ( -48 -159 32 ) ( -48 -160 33 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -160 32 ) ( -48 -160 33 ) ( -47 -160 32 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -160 32 ) ( -47 -160 32 ) ( -48 -159 32 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 48 ) ( 48 -127 48 ) ( 49 -128 48 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 48 ) ( 49 -128 48 ) ( 48 -128 49 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 48 ) ( 48 -128 49 ) ( 48 -127 48 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 94
+{
+( -16 -160 48 ) ( -16 -159 48 ) ( -16 -160 49 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -160 48 ) ( -16 -160 49 ) ( -15 -160 48 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -160 48 ) ( -15 -160 48 ) ( -16 -159 48 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 64 ) ( 16 -127 64 ) ( 17 -128 64 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 64 ) ( 17 -128 64 ) ( 16 -128 65 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 64 ) ( 16 -128 65 ) ( 16 -127 64 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 95
+{
+( -96 -128 -112 ) ( -96 -127 -112 ) ( -96 -128 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -128 -112 ) ( -96 -128 -111 ) ( -95 -128 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -96 -128 -112 ) ( -95 -128 -112 ) ( -96 -127 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 -112 -96 ) ( 96 -111 -96 ) ( 97 -112 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 -112 -96 ) ( 97 -112 -96 ) ( 96 -112 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 96 -112 -96 ) ( 96 -112 -95 ) ( 96 -111 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 96
+{
+( -32 -144 -112 ) ( -32 -143 -112 ) ( -32 -144 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -32 -144 -112 ) ( -32 -144 -111 ) ( -31 -144 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -32 -144 -112 ) ( -31 -144 -112 ) ( -32 -143 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 32 -128 -96 ) ( 32 -127 -96 ) ( 33 -128 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 32 -128 -96 ) ( 33 -128 -96 ) ( 32 -128 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 32 -128 -96 ) ( 32 -128 -95 ) ( 32 -127 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 97
+{
+( 96 -128 -112 ) ( 96 -127 -112 ) ( 96 -128 -111 ) minecraft/spruce_planks 0 0 0 1 1
+( 96 -128 -112 ) ( 96 -128 -111 ) ( 97 -128 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( 96 -128 -112 ) ( 97 -128 -112 ) ( 96 -127 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 -112 -104 ) ( 128 -111 -104 ) ( 129 -112 -104 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 -112 -104 ) ( 129 -112 -104 ) ( 128 -112 -103 ) minecraft/spruce_planks 0 0 0 1 1
+( 128 -112 -104 ) ( 128 -112 -103 ) ( 128 -111 -104 ) minecraft/spruce_planks 0 0 0 1 1
+}
+// brush 98
+{
+( -128 -128 -112 ) ( -128 -127 -112 ) ( -128 -128 -111 ) minecraft/spruce_planks 0 0 0 1 1
+( -128 -128 -112 ) ( -128 -128 -111 ) ( -127 -128 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( -128 -128 -112 ) ( -127 -128 -112 ) ( -128 -127 -112 ) minecraft/spruce_planks 0 0 0 1 1
+( -96 -112 -104 ) ( -96 -111 -104 ) ( -95 -112 -104 ) minecraft/spruce_planks 0 0 0 1 1
+( -96 -112 -104 ) ( -95 -112 -104 ) ( -96 -112 -103 ) minecraft/spruce_planks 0 0 0 1 1
+( -96 -112 -104 ) ( -96 -112 -103 ) ( -96 -111 -104 ) minecraft/spruce_planks 0 0 0 1 1
+}
+// brush 99
+{
+( 40 -144 -64 ) ( 40 -143 -64 ) ( 40 -144 -63 ) minecraft/cobblestone 0 0 0 1 1
+( 40 -144 -64 ) ( 40 -144 -63 ) ( 41 -144 -64 ) minecraft/cobblestone 0 0 0 1 1
+( 40 -144 -64 ) ( 41 -144 -64 ) ( 40 -143 -64 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -48 ) ( 48 -127 -48 ) ( 49 -128 -48 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -48 ) ( 49 -128 -48 ) ( 48 -128 -47 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -48 ) ( 48 -128 -47 ) ( 48 -127 -48 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 100
+{
+( 24 -144 0 ) ( 24 -143 0 ) ( 24 -144 1 ) minecraft/cobblestone 0 0 0 1 1
+( 24 -144 0 ) ( 24 -144 1 ) ( 25 -144 0 ) minecraft/cobblestone 0 0 0 1 1
+( 24 -144 0 ) ( 25 -144 0 ) ( 24 -143 0 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -128 16 ) ( 32 -127 16 ) ( 33 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -128 16 ) ( 33 -128 16 ) ( 32 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( 32 -128 16 ) ( 32 -128 17 ) ( 32 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 101
+{
+( -32 -144 0 ) ( -32 -143 0 ) ( -32 -144 1 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -144 0 ) ( -32 -144 1 ) ( -31 -144 0 ) minecraft/cobblestone 0 0 0 1 1
+( -32 -144 0 ) ( -31 -144 0 ) ( -32 -143 0 ) minecraft/cobblestone 0 0 0 1 1
+( -24 -128 16 ) ( -24 -127 16 ) ( -23 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( -24 -128 16 ) ( -23 -128 16 ) ( -24 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( -24 -128 16 ) ( -24 -128 17 ) ( -24 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 102
+{
+( 16 -144 8 ) ( 16 -143 8 ) ( 16 -144 9 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -144 8 ) ( 16 -144 9 ) ( 17 -144 8 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -144 8 ) ( 17 -144 8 ) ( 16 -143 8 ) minecraft/cobblestone 0 0 0 1 1
+( 24 -128 16 ) ( 24 -127 16 ) ( 25 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( 24 -128 16 ) ( 25 -128 16 ) ( 24 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( 24 -128 16 ) ( 24 -128 17 ) ( 24 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 103
+{
+( -24 -144 8 ) ( -24 -143 8 ) ( -24 -144 9 ) minecraft/cobblestone 0 0 0 1 1
+( -24 -144 8 ) ( -24 -144 9 ) ( -23 -144 8 ) minecraft/cobblestone 0 0 0 1 1
+( -24 -144 8 ) ( -23 -144 8 ) ( -24 -143 8 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -128 16 ) ( -16 -127 16 ) ( -15 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -128 16 ) ( -15 -128 16 ) ( -16 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -128 16 ) ( -16 -128 17 ) ( -16 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 104
+{
+( 8 -144 8 ) ( 8 -143 8 ) ( 8 -144 9 ) minecraft/cobblestone 0 0 0 1 1
+( 8 -144 8 ) ( 8 -144 9 ) ( 9 -144 8 ) minecraft/cobblestone 0 0 0 1 1
+( 8 -144 8 ) ( 9 -144 8 ) ( 8 -143 8 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 16 ) ( 16 -127 16 ) ( 17 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 16 ) ( 17 -128 16 ) ( 16 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( 16 -128 16 ) ( 16 -128 17 ) ( 16 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 105
+{
+( -16 -144 8 ) ( -16 -143 8 ) ( -16 -144 9 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -144 8 ) ( -16 -144 9 ) ( -15 -144 8 ) minecraft/cobblestone 0 0 0 1 1
+( -16 -144 8 ) ( -15 -144 8 ) ( -16 -143 8 ) minecraft/cobblestone 0 0 0 1 1
+( -8 -128 16 ) ( -8 -127 16 ) ( -7 -128 16 ) minecraft/cobblestone 0 0 0 1 1
+( -8 -128 16 ) ( -7 -128 16 ) ( -8 -128 17 ) minecraft/cobblestone 0 0 0 1 1
+( -8 -128 16 ) ( -8 -128 17 ) ( -8 -127 16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 106
+{
+( 40 -144 -48 ) ( 40 -143 -48 ) ( 40 -144 -47 ) minecraft/cobblestone 0 0 0 1 1
+( 40 -144 -48 ) ( 40 -144 -47 ) ( 41 -144 -48 ) minecraft/cobblestone 0 0 0 1 1
+( 40 -144 -48 ) ( 41 -144 -48 ) ( 40 -143 -48 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -16 ) ( 48 -127 -16 ) ( 49 -128 -16 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -16 ) ( 49 -128 -16 ) ( 48 -128 -15 ) minecraft/cobblestone 0 0 0 1 1
+( 48 -128 -16 ) ( 48 -128 -15 ) ( 48 -127 -16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 107
+{
+( -48 -144 -64 ) ( -48 -143 -64 ) ( -48 -144 -63 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -144 -64 ) ( -48 -144 -63 ) ( -47 -144 -64 ) minecraft/cobblestone 0 0 0 1 1
+( -48 -144 -64 ) ( -47 -144 -64 ) ( -48 -143 -64 ) minecraft/cobblestone 0 0 0 1 1
+( -40 -128 -16 ) ( -40 -127 -16 ) ( -39 -128 -16 ) minecraft/cobblestone 0 0 0 1 1
+( -40 -128 -16 ) ( -39 -128 -16 ) ( -40 -128 -15 ) minecraft/cobblestone 0 0 0 1 1
+( -40 -128 -16 ) ( -40 -128 -15 ) ( -40 -127 -16 ) minecraft/cobblestone 0 0 0 1 1
+}
+// brush 108
+{
+( -48 -384 -112 ) ( -48 -383 -112 ) ( -48 -384 -111 ) minecraft/stone_bricks 0 0 0 1 1
+( -48 -384 -112 ) ( -48 -384 -111 ) ( -47 -384 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( -48 -384 -112 ) ( -47 -384 -112 ) ( -48 -383 -112 ) minecraft/stone_bricks 0 0 0 1 1
+( 48 -144 -96 ) ( 48 -143 -96 ) ( 49 -144 -96 ) minecraft/stone_bricks 0 0 0 1 1
+( 48 -144 -96 ) ( 49 -144 -96 ) ( 48 -144 -95 ) minecraft/stone_bricks 0 0 0 1 1
+( 48 -144 -96 ) ( 48 -144 -95 ) ( 48 -143 -96 ) minecraft/stone_bricks 0 0 0 1 1
+}
+// brush 109
+{
+( 16 -368 -96 ) ( 16 -367 -96 ) ( 16 -368 -95 ) minecraft/redstone_block 0 0 0 1 1
+( 16 -368 -96 ) ( 16 -368 -95 ) ( 17 -368 -96 ) minecraft/redstone_block 0 0 0 1 1
+( 16 -368 -96 ) ( 17 -368 -96 ) ( 16 -367 -96 ) minecraft/redstone_block 0 0 0 1 1
+( 32 -352 -80 ) ( 32 -351 -80 ) ( 33 -352 -80 ) minecraft/redstone_block 0 0 0 1 1
+( 32 -352 -80 ) ( 33 -352 -80 ) ( 32 -352 -79 ) minecraft/redstone_block 0 0 0 1 1
+( 32 -352 -80 ) ( 32 -352 -79 ) ( 32 -351 -80 ) minecraft/redstone_block 0 0 0 1 1
+}
+// brush 110
+{
+( 0 -368 -96 ) ( 0 -367 -96 ) ( 0 -368 -95 ) minecraft/purpur_block 0 0 0 1 1
+( 0 -368 -96 ) ( 0 -368 -95 ) ( 1 -368 -96 ) minecraft/purpur_block 0 0 0 1 1
+( 0 -368 -96 ) ( 1 -368 -96 ) ( 0 -367 -96 ) minecraft/purpur_block 0 0 0 1 1
+( 16 -352 -80 ) ( 16 -351 -80 ) ( 17 -352 -80 ) minecraft/purpur_block 0 0 0 1 1
+( 16 -352 -80 ) ( 17 -352 -80 ) ( 16 -352 -79 ) minecraft/purpur_block 0 0 0 1 1
+( 16 -352 -80 ) ( 16 -352 -79 ) ( 16 -351 -80 ) minecraft/purpur_block 0 0 0 1 1
+}
+// brush 111
+{
+( -16 -368 -96 ) ( -16 -367 -96 ) ( -16 -368 -95 ) minecraft/gold_block 0 0 0 1 1
+( -16 -368 -96 ) ( -16 -368 -95 ) ( -15 -368 -96 ) minecraft/gold_block 0 0 0 1 1
+( -16 -368 -96 ) ( -15 -368 -96 ) ( -16 -367 -96 ) minecraft/gold_block 0 0 0 1 1
+( 0 -352 -80 ) ( 0 -351 -80 ) ( 1 -352 -80 ) minecraft/gold_block 0 0 0 1 1
+( 0 -352 -80 ) ( 1 -352 -80 ) ( 0 -352 -79 ) minecraft/gold_block 0 0 0 1 1
+( 0 -352 -80 ) ( 0 -352 -79 ) ( 0 -351 -80 ) minecraft/gold_block 0 0 0 1 1
+}
+// brush 112
+{
+( -32 -368 -96 ) ( -32 -367 -96 ) ( -32 -368 -95 ) minecraft/diamond_block 0 0 0 1 1
+( -32 -368 -96 ) ( -32 -368 -95 ) ( -31 -368 -96 ) minecraft/diamond_block 0 0 0 1 1
+( -32 -368 -96 ) ( -31 -368 -96 ) ( -32 -367 -96 ) minecraft/diamond_block 0 0 0 1 1
+( -16 -352 -80 ) ( -16 -351 -80 ) ( -15 -352 -80 ) minecraft/diamond_block 0 0 0 1 1
+( -16 -352 -80 ) ( -15 -352 -80 ) ( -16 -352 -79 ) minecraft/diamond_block 0 0 0 1 1
+( -16 -352 -80 ) ( -16 -352 -79 ) ( -16 -351 -80 ) minecraft/diamond_block 0 0 0 1 1
+}
+// brush 113
+{
+( 16 -368 -80 ) ( 16 -367 -80 ) ( 16 -368 -79 ) minecraft/emerald_block 0 0 0 1 1
+( 16 -368 -80 ) ( 16 -368 -79 ) ( 17 -368 -80 ) minecraft/emerald_block 0 0 0 1 1
+( 16 -368 -80 ) ( 17 -368 -80 ) ( 16 -367 -80 ) minecraft/emerald_block 0 0 0 1 1
+( 32 -352 -64 ) ( 32 -351 -64 ) ( 33 -352 -64 ) minecraft/emerald_block 0 0 0 1 1
+( 32 -352 -64 ) ( 33 -352 -64 ) ( 32 -352 -63 ) minecraft/emerald_block 0 0 0 1 1
+( 32 -352 -64 ) ( 32 -352 -63 ) ( 32 -351 -64 ) minecraft/emerald_block 0 0 0 1 1
+}
+// brush 114
+{
+( 32 -288 -96 ) ( 32 -287 -96 ) ( 32 -288 -95 ) minecraft/stone 0 0 0 1 1
+( 32 -288 -96 ) ( 32 -288 -95 ) ( 33 -288 -96 ) minecraft/stone 0 0 0 1 1
+( 32 -288 -96 ) ( 33 -288 -96 ) ( 32 -287 -96 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -80 ) ( 48 -223 -80 ) ( 49 -224 -80 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -80 ) ( 49 -224 -80 ) ( 48 -224 -79 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -80 ) ( 48 -224 -79 ) ( 48 -223 -80 ) minecraft/stone 0 0 0 1 1
+}
+// brush 115
+{
+( 32 -288 -80 ) ( 32 -287 -80 ) ( 32 -288 -79 ) minecraft/stone 0 0 0 1 1
+( 32 -288 -80 ) ( 32 -288 -79 ) ( 33 -288 -80 ) minecraft/stone 0 0 0 1 1
+( 32 -288 -80 ) ( 33 -288 -80 ) ( 32 -287 -80 ) minecraft/stone 0 0 0 1 1
+( 48 -256 -64 ) ( 48 -255 -64 ) ( 49 -256 -64 ) minecraft/stone 0 0 0 1 1
+( 48 -256 -64 ) ( 49 -256 -64 ) ( 48 -256 -63 ) minecraft/stone 0 0 0 1 1
+( 48 -256 -64 ) ( 48 -256 -63 ) ( 48 -255 -64 ) minecraft/stone 0 0 0 1 1
+}
+// brush 116
+{
+( 32 -240 -80 ) ( 32 -239 -80 ) ( 32 -240 -79 ) minecraft/stone 0 0 0 1 1
+( 32 -240 -80 ) ( 32 -240 -79 ) ( 33 -240 -80 ) minecraft/stone 0 0 0 1 1
+( 32 -240 -80 ) ( 33 -240 -80 ) ( 32 -239 -80 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -64 ) ( 48 -223 -64 ) ( 49 -224 -64 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -64 ) ( 49 -224 -64 ) ( 48 -224 -63 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -64 ) ( 48 -224 -63 ) ( 48 -223 -64 ) minecraft/stone 0 0 0 1 1
+}
+// brush 117
+{
+( 32 -272 -64 ) ( 32 -271 -64 ) ( 32 -272 -63 ) minecraft/stone 0 0 0 1 1
+( 32 -272 -64 ) ( 32 -272 -63 ) ( 33 -272 -64 ) minecraft/stone 0 0 0 1 1
+( 32 -272 -64 ) ( 33 -272 -64 ) ( 32 -271 -64 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -48 ) ( 48 -223 -48 ) ( 49 -224 -48 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -48 ) ( 49 -224 -48 ) ( 48 -224 -47 ) minecraft/stone 0 0 0 1 1
+( 48 -224 -48 ) ( 48 -224 -47 ) ( 48 -223 -48 ) minecraft/stone 0 0 0 1 1
+}
+// brush 118
+{
+( 32 -288 -64 ) ( 32 -287 -64 ) ( 32 -288 -63 ) minecraft/diamond_ore 0 0 0 1 1
+( 32 -288 -64 ) ( 32 -288 -63 ) ( 33 -288 -64 ) minecraft/diamond_ore 0 0 0 1 1
+( 32 -288 -64 ) ( 33 -288 -64 ) ( 32 -287 -64 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -272 -48 ) ( 48 -271 -48 ) ( 49 -272 -48 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -272 -48 ) ( 49 -272 -48 ) ( 48 -272 -47 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -272 -48 ) ( 48 -272 -47 ) ( 48 -271 -48 ) minecraft/diamond_ore 0 0 0 1 1
+}
+// brush 119
+{
+( 32 -256 -80 ) ( 32 -255 -80 ) ( 32 -256 -79 ) minecraft/diamond_ore 0 0 0 1 1
+( 32 -256 -80 ) ( 32 -256 -79 ) ( 33 -256 -80 ) minecraft/diamond_ore 0 0 0 1 1
+( 32 -256 -80 ) ( 33 -256 -80 ) ( 32 -255 -80 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -240 -64 ) ( 48 -239 -64 ) ( 49 -240 -64 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -240 -64 ) ( 49 -240 -64 ) ( 48 -240 -63 ) minecraft/diamond_ore 0 0 0 1 1
+( 48 -240 -64 ) ( 48 -240 -63 ) ( 48 -239 -64 ) minecraft/diamond_ore 0 0 0 1 1
+}
+// brush 120
+{
+( -48 -288 -96 ) ( -48 -287 -96 ) ( -48 -288 -95 ) minecraft/crafting_table_side 0 0 0 1 1
+( -48 -288 -96 ) ( -48 -288 -95 ) ( -47 -288 -96 ) minecraft/crafting_table_front 0 0 0 1 1
+( -48 -288 -96 ) ( -47 -288 -96 ) ( -48 -287 -96 ) minecraft/crafting_table_front 0 0 0 1 1
+( -32 -272 -80 ) ( -32 -271 -80 ) ( -31 -272 -80 ) minecraft/crafting_table_top 0 0 0 1 1
+( -32 -272 -80 ) ( -31 -272 -80 ) ( -32 -272 -79 ) minecraft/crafting_table_front 0 0 0 1 1
+( -32 -272 -80 ) ( -32 -272 -79 ) ( -32 -271 -80 ) minecraft/crafting_table_side 0 0 0 1 1
+}
+// brush 121
+{
+( -128 -144 -96 ) ( -128 -143 -96 ) ( -128 -144 -95 ) minecraft/glass 0 0 0 1 1
+( -128 -144 -96 ) ( -128 -144 -95 ) ( -127 -144 -96 ) minecraft/glass 0 0 0 1 1
+( -128 -144 -96 ) ( -127 -144 -96 ) ( -128 -143 -96 ) minecraft/glass 0 0 0 1 1
+( -80 -128 0 ) ( -80 -127 0 ) ( -79 -128 0 ) minecraft/glass 0 0 0 1 1
+( -80 -128 0 ) ( -79 -128 0 ) ( -80 -128 1 ) minecraft/glass 0 0 0 1 1
+( -80 -128 0 ) ( -80 -128 1 ) ( -80 -127 0 ) minecraft/glass 0 0 0 1 1
+}
+// brush 122
+{
+( 80 -144 -96 ) ( 80 -143 -96 ) ( 80 -144 -95 ) minecraft/glass 0 0 0 1 1
+( 80 -144 -96 ) ( 80 -144 -95 ) ( 81 -144 -96 ) minecraft/glass 0 0 0 1 1
+( 80 -144 -96 ) ( 81 -144 -96 ) ( 80 -143 -96 ) minecraft/glass 0 0 0 1 1
+( 128 -128 0 ) ( 128 -127 0 ) ( 129 -128 0 ) minecraft/glass 0 0 0 1 1
+( 128 -128 0 ) ( 129 -128 0 ) ( 128 -128 1 ) minecraft/glass 0 0 0 1 1
+( 128 -128 0 ) ( 128 -128 1 ) ( 128 -127 0 ) minecraft/glass 0 0 0 1 1
+}
+}

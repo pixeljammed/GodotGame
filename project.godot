@@ -1,0 +1,36 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Tbloom"
+run/main_scene="res://levels/test1.tscn"
+config/features=PackedStringArray("4.1", "Forward Plus")
+config/icon="res://icon.svg"
+
+[autoload]
+
+DiscordSDKLoader="*res://addons/discord-sdk-gd/nodes/core_updater.gd"
+
+[display]
+
+window/size/viewport_width=2560
+window/size/viewport_height=1440
+window/size/mode=3
+window/stretch/mode="viewport"
+window/stretch/scale=2.0
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/discord-sdk-gd/plugin.cfg", "res://addons/tbloader/plugin.cfg")
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
